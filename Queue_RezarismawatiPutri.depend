@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584587240 source:d:\kampus\semester 2\strukdat\after uts\queue_rezarismawatiputri\queue.cpp
+	"queue.h"
+
+1584587147 d:\kampus\semester 2\strukdat\after uts\queue_rezarismawatiputri\queue.h
+	<iostream>
+
+1584587221 source:d:\kampus\semester 2\strukdat\after uts\queue_rezarismawatiputri\main.cpp
+	"queue.h"
+
+1584587221 source:d:\kampus\semester 2\strukdat\after uts\queue\queue_rezarismawatiputri\main.cpp
+	"queue.h"
+
+1584587147 d:\kampus\semester 2\strukdat\after uts\queue\queue_rezarismawatiputri\queue.h
+	<iostream>
+
+1584587240 source:d:\kampus\semester 2\strukdat\after uts\queue\queue_rezarismawatiputri\queue.cpp
+	"queue.h"
+
